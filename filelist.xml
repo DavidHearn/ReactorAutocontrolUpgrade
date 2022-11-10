@@ -1,0 +1,3 @@
+<contentpackage name="Reactor Autocontrol Upgrade" modversion="1.0.0" gameversion="0.19.14.0" corepackage="false">
+    <UpgradeModules file="%ModDir%/Upgrade.xml" />
+</contentpackage>

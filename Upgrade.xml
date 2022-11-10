@@ -1,0 +1,6 @@
+<UpgradeModule identifier="increaseautomaticcontrolspeed" name="Improved Autocontrol Responsiveness" maxlevel="3" categories="reactors" increaseontooltip="+50">
+  <Price baseprice="2000" increaselow="+0%" increasehigh="+200%" />
+  <MaxLevel tier="1" level="1"/>
+  <MaxLevel tier="2" level="2"/>
+  <Reactor autotempcontrolspeed="+50%" wiredcontrolspeed="+50%"/>
+</UpgradeModule>
